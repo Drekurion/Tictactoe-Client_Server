@@ -56,3 +56,5 @@ public class DataSwitch extends Thread
         return false;
     }
 }
+//Part of Tictactoe Game Server
+//Author: Drekurion
